@@ -24,13 +24,12 @@ A fully-featured Tic Tac Toe game built using **HTML, CSS, and JavaScript**, wit
 
 
 ### 🌚 Dark Theme – Before Play
-![Dark Mode Empty]https://raw.githubusercontent.com/Prasanna-555/TIC-TAC-TOE-HTML-CSS-JS-/refs/heads/main/DarkMode%20Screen.png
+<img width="355" height="583" alt="image" src="https://github.com/user-attachments/assets/2f57e300-fd30-4ac0-b1ef-a4dba9382d9b" />
 
 ### 🌞 Light Theme
-![Light Mode](assets/Screenshot-3.png)
+<img width="421" height="602" alt="image" src="https://github.com/user-attachments/assets/4fd2bcab-e9e7-445f-8463-9083a6cb5809" />
 
 > *(Make sure you place these images inside an `assets/` folder and name them exactly as shown above)*
-
 ---
 
 ## 📁 File Structure
