@@ -63,7 +63,7 @@ cd tic-tac-toe-game
 
 ## 🔗 Live Demo
 
-**[🌐 View Game Live](https://your-username.github.io/tic-tac-toe-game/)**  
+**[🌐 View Game Live](https://prasanna-555.github.io/TIC-TAC-TOE-HTML-CSS-JS-/)**  
 *(Replace with your GitHub Pages or Netlify URL)*
 
 ---
