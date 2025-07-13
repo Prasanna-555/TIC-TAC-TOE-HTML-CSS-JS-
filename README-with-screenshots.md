@@ -42,10 +42,6 @@ tic-tac-toe/
 ├── script.js          # Game logic & effects
 ├── click.mp3          # Click sound effect
 ├── win.mp3            # Win sound effect
-└── assets/
-    ├── Screenshot-1.png
-    ├── Screenshot-2.png
-    └── Screenshot-3.png
 ```
 
 ---
