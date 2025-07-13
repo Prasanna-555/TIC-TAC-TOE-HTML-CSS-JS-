@@ -20,7 +20,8 @@ A fully-featured Tic Tac Toe game built using **HTML, CSS, and JavaScript**, wit
 ## 📸 Screenshots
 
 ### 🔲 Dark Theme – X Wins
-<img width="355" height="583" alt="image" src="https://github.com/user-attachments/assets/2f57e300-fd30-4ac0-b1ef-a4dba9382d9b" />
+<img width="376" height="574" alt="image" src="https://github.com/user-attachments/assets/5b03e9c2-4ef3-47d4-9d32-b1a5c342a534" />
+
 
 
 ### 🌚 Dark Theme – Before Play
