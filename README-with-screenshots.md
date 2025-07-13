@@ -20,10 +20,10 @@ A fully-featured Tic Tac Toe game built using **HTML, CSS, and JavaScript**, wit
 ## 📸 Screenshots
 
 ### 🔲 Dark Theme – X Wins
-![Dark Mode Win]https://raw.githubusercontent.com/Prasanna-555/TIC-TAC-TOE-HTML-CSS-JS-/refs/heads/main/DarkMode%20Screen.png
+
 
 ### 🌚 Dark Theme – Before Play
-![Dark Mode Empty](assets/Screenshot-2.png)
+![Dark Mode Empty]https://raw.githubusercontent.com/Prasanna-555/TIC-TAC-TOE-HTML-CSS-JS-/refs/heads/main/DarkMode%20Screen.png
 
 ### 🌞 Light Theme
 ![Light Mode](assets/Screenshot-3.png)
